@@ -1,22 +1,19 @@
-A simple Python app with a GUI (Tkinter) that allows you to cast local .mp3 files to any Google Home or Chromecast Audio device on your network. 
-Choose from multiple devices and stream music directly!
+🪟 GUI byggd med Tkinter
 
-🖥️ Features
-🎵 Stream local .mp3 files to Google Home
+En Python-app med grafiskt gränssnitt (Tkinter) som låter dig casta lokala .mp3-filer till valfri Chromecast Audio-enhet på ditt nätverk.
+Välj mellan flera enheter och strömma musik direkt!
 
-🧠 Auto-discovers all cast-enabled devices
+🖥️ Funktioner
+🎵 Strömma lokala .mp3-filer till Google Home
 
-🔊 Select device from the dropdown list
+🧠 Upptäcker automatiskt alla cast-kompatibla enheter med en knapptryckning
 
-🌐 Starts a local HTTP server automatically
+🔊 Välj enhet från rullgardinslistan
 
-🪟 GUI built with Tkinter
-
-🔧 Requirements
+🔧 Krav
 Python 3.7+
 
-Google Home or Chromecast Audio devices on the same Wi-Fi network
+Google Home eller Chromecast Audio-enheter på samma Wi-Fi-nätverk
 
-🛠️ Python Packages
-Install dependencies with:
-pip install pychromecast
+🛠️ Python-paket
+Installera beroenden med:
