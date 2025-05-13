@@ -16,4 +16,4 @@ Python 3.7+
 Google Home eller Chromecast Audio-enheter på samma Wi-Fi-nätverk
 
 🛠️ Python-paket
-Installera beroenden med:
+Installera beroenden med: pip install pychromecast
